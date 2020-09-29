@@ -28,7 +28,11 @@
   }
   .card-header {
     background: url('https://images.unsplash.com/photo-1579149840618-c0d5ea3f4d74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80') no-repeat center center fixed;
-
+  }
+  .card-footer {
+      max-width: 50%;
+      margin-left: auto;
+    margin-right: auto;
   }
 
   
