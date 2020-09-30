@@ -19,6 +19,11 @@
   .btn{
       font-family: 'Source Code Pro', monospace;
   }
+  #contactme{
+    color: black;
+    font-family: 'Source Code Pro', monospace;
+    font-size: smaller;
+  }
   #julietteimage {
     max-width: 50%;
     height: auto;
