@@ -16,6 +16,7 @@
   h5 {
     font-family: 'Source Code Pro', monospace;
   }
+  
   .btn{
       font-family: 'Source Code Pro', monospace;
   }
@@ -50,7 +51,10 @@
   }
     @media (max-width: 500px) {
       p {
-        font-size: 1.25rem; 
+        font-size: 0.75em; 
+      }
+      .lead {
+        font-size:0.75em;
       }
     }
     @media (orientation: landscape) {
